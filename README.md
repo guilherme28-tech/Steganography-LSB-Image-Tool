@@ -31,8 +31,7 @@ steganography/
 │
 ├── utils/
 │   └── binary.py
-│
-└── assets/
+
 ```
 
 ### Arquivos principais
@@ -78,7 +77,7 @@ O projeto utiliza a técnica de LSB (Least Significant Bit), que consiste em alt
 ## 1️⃣ Clone o repositório
 
 ```bash
-git clone SEU_LINK_DO_REPOSITORIO
+git clone https://github.com/guilherme28-tech/Steganography-LSB-Image-Tool
 ```
 
 ---
