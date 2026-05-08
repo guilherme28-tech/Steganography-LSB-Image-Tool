@@ -1,4 +1,3 @@
-````md
 # 🔐 Steganography LSB Image Tool
 
 Ferramenta de esteganografia desenvolvida em Python utilizando a técnica de LSB (Least Significant Bit) para ocultar e extrair mensagens de texto em imagens através da modificação dos bits menos significativos dos canais de cores.
